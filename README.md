@@ -2,6 +2,7 @@
 
 ## **Running migrations**
 > python manage.py makemigrations
+> 
 > python manage.py migrate
 
 ### **Raising the project locally**
